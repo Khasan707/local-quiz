@@ -1,0 +1,34 @@
+{
+  "title": "Математический тест",
+  "questionList": [
+    {
+      "title": "2+2=?",
+      "answerList": [
+        "=1",
+        "=2",
+        "=3",
+        "=4"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "title": "2+2*2=?",
+      "answerList": [
+        "=4",
+        "=8",
+        "=6"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "title": "(2+2)*2=?",
+      "answerList": [
+        "=8",
+        "=6",
+        "=4",
+        "=10"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
